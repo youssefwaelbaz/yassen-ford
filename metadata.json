@@ -1,0 +1,8 @@
+{
+  "name": "Remix: yassen-ford",
+  "description": "بوابة سيارات فورد الفاخرة - استعرض وقارن وتعرف على طرازات فورد الرياضية والكهربائية والعائلية مع مساعد الذكاء الاصطناعي الذكي ياسين فورد.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
