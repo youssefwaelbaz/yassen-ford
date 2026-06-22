@@ -36,10 +36,10 @@ export const FORD_CARS: FordCar[] = [
       { name: 'أزرق كوزميك عميق', hex: '#1E3A8A', nameEn: 'Deep Blue Metallic' },
       { name: 'أسود ملوكي لامع', hex: '#111827', nameEn: 'Tuxedo Black' }
     ],
-    image: '/src/assets/images/ford_fusion_egypt_1782162667497.jpg',
+    image: "/https://static0.carbuzzimages.com/wordpress/wp-content/uploads/gallery-images/original/473000/600/473668.jpg",
     bannerImage: '/src/assets/images/ford_fusion_egypt_1782162667497.jpg',
     performanceScore: 92,
-    utilityScore: 88,
+    utilityScore: 88,        
     techScore: 95
   },
   {
@@ -246,8 +246,8 @@ export const FORD_CARS: FordCar[] = [
       { name: 'أبيض طيني', hex: '#F5F5F4', nameEn: 'Cactus Gray' },
       { name: 'أسود معتم', hex: '#0C0A09', nameEn: 'Shadow Black' }
     ],
-    image: '/src/assets/images/bronco_offroad_1782161647781.jpg',
-    bannerImage: '/src/assets/images/bronco_offroad_1782161647781.jpg',
+    image: '/https://static0.carbuzzimages.com/wordpress/wp-content/uploads/gallery-images/original/473000/600/473668.jpg',
+    bannerImage: '/https://static0.carbuzzimages.com/wordpress/wp-content/uploads/gallery-images/original/473000/600/473668.jpg',
     performanceScore: 95,
     utilityScore: 92,
     techScore: 91
